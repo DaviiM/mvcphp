@@ -1,11 +1,12 @@
 <?php
 
-    date_default_timezone_set('America/Sao_Paulo');
+//timezone
 
-    define('BD_SERVIDOR','localhost');
-    define('BD_USUARIO','id18842366_root2');
-    define('BD_SENHA','=HNFbmNh70}Dap33');
-    define('BD_BANCO','id18842366_bdlivraria');
+date_default_timezone_set('America/Sao_Paulo');
 
+// conexão com o banco de dados
 
-?>
+define('BD_SERVIDOR','localhost');
+define('BD_USUARIO','id18836643_mvc');
+define('BD_SENHA','^WYp@m0>Oo4PZ~U?');
+define('BD_BANCO','id18836643_livraria');
